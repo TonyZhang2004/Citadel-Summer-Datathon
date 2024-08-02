@@ -1,0 +1,170 @@
+,Year,Label (Grouping),Estimate
+0,2010,"Agriculture, forestry, fishing and hunting, and mining",50952.557692307695
+1,2010,"Arts, entertainment, and recreation, and accommodation and food services",243475.61538461538
+2,2010,Construction,196185.28846153847
+3,2010,"Educational services, and health care and social assistance",606453.1153846154
+4,2010,"Finance and insurance, and real estate and rental and leasing",192198.3076923077
+5,2010,Information,65160.596153846156
+6,2010,Manufacturing,301889.6153846154
+7,2010,"Other services, except public administration",133851.25
+8,2010,"Professional, scientific, and management, and administrative and waste management services",285969.48076923075
+9,2010,Public administration,134143.21153846153
+10,2010,Retail trade,316159.51923076925
+11,2010,"Transportation and warehousing, and utilities",138986.09615384616
+12,2010,Wholesale trade,84243.84615384616
+13,2011,"Agriculture, forestry, fishing and hunting, and mining",51623.11538461538
+14,2011,"Arts, entertainment, and recreation, and accommodation and food services",247582.5576923077
+15,2011,Construction,186962.48076923078
+16,2011,"Educational services, and health care and social assistance",618981.9230769231
+17,2011,"Finance and insurance, and real estate and rental and leasing",188452.76923076922
+18,2011,Information,62998.192307692305
+19,2011,Manufacturing,296034.17307692306
+20,2011,"Other services, except public administration",135042.88461538462
+21,2011,"Professional, scientific, and management, and administrative and waste management services",289239.3653846154
+22,2011,Public administration,136088.0576923077
+23,2011,Retail trade,316990.25
+24,2011,"Transportation and warehousing, and utilities",138740.6923076923
+25,2011,Wholesale trade,80639.75
+26,2012,"Agriculture, forestry, fishing and hunting, and mining",52190.96153846154
+27,2012,"Arts, entertainment, and recreation, and accommodation and food services",252573.03846153847
+28,2012,Construction,178770.28846153847
+29,2012,"Educational services, and health care and social assistance",630229.5961538461
+30,2012,"Finance and insurance, and real estate and rental and leasing",185309.51923076922
+31,2012,Information,60744.807692307695
+32,2012,Manufacturing,292063.8653846154
+33,2012,"Other services, except public administration",136318.42307692306
+34,2012,"Professional, scientific, and management, and administrative and waste management services",293101.82692307694
+35,2012,Public administration,137117.73076923078
+36,2012,Retail trade,318648.6153846154
+37,2012,"Transportation and warehousing, and utilities",137272.5576923077
+38,2012,Wholesale trade,77927.53846153847
+39,2013,"Agriculture, forestry, fishing and hunting, and mining",52804.557692307695
+40,2013,"Arts, entertainment, and recreation, and accommodation and food services",256872.5576923077
+41,2013,Construction,171736.71153846153
+42,2013,"Educational services, and health care and social assistance",637067.0576923077
+43,2013,"Finance and insurance, and real estate and rental and leasing",183242.11538461538
+44,2013,Information,59145.0
+45,2013,Manufacturing,287881.5961538461
+46,2013,"Other services, except public administration",136604.3076923077
+47,2013,"Professional, scientific, and management, and administrative and waste management services",296207.73076923075
+48,2013,Public administration,137303.5576923077
+49,2013,Retail trade,318487.76923076925
+50,2013,"Transportation and warehousing, and utilities",135604.98076923078
+51,2013,Wholesale trade,76346.57692307692
+52,2014,"Agriculture, forestry, fishing and hunting, and mining",54257.5
+53,2014,"Arts, entertainment, and recreation, and accommodation and food services",263543.51923076925
+54,2014,Construction,171258.61538461538
+55,2014,"Educational services, and health care and social assistance",645186.2692307692
+56,2014,"Finance and insurance, and real estate and rental and leasing",183189.63461538462
+57,2014,Information,59311.057692307695
+58,2014,Manufacturing,289496.3846153846
+59,2014,"Other services, except public administration",137936.90384615384
+60,2014,"Professional, scientific, and management, and administrative and waste management services",302343.73076923075
+61,2014,Public administration,137625.92307692306
+62,2014,Retail trade,322015.28846153844
+63,2014,"Transportation and warehousing, and utilities",136677.13461538462
+64,2014,Wholesale trade,76319.17307692308
+65,2015,"Agriculture, forestry, fishing and hunting, and mining",55132.519230769234
+66,2015,"Arts, entertainment, and recreation, and accommodation and food services",270747.23076923075
+67,2015,Construction,174738.34615384616
+68,2015,"Educational services, and health care and social assistance",653658.9423076923
+69,2015,"Finance and insurance, and real estate and rental and leasing",185314.01923076922
+70,2015,Information,59911.42307692308
+71,2015,Manufacturing,293606.98076923075
+72,2015,"Other services, except public administration",139553.46153846153
+73,2015,"Professional, scientific, and management, and administrative and waste management services",311098.6923076923
+74,2015,Public administration,136391.23076923078
+75,2015,Retail trade,326531.07692307694
+76,2015,"Transportation and warehousing, and utilities",139718.76923076922
+77,2015,Wholesale trade,76888.25
+78,2016,"Agriculture, forestry, fishing and hunting, and mining",54964.442307692305
+79,2016,"Arts, entertainment, and recreation, and accommodation and food services",277200.23076923075
+80,2016,Construction,179099.53846153847
+81,2016,"Educational services, and health care and social assistance",662538.0192307692
+82,2016,"Finance and insurance, and real estate and rental and leasing",188239.07692307694
+83,2016,Information,60629.61538461538
+84,2016,Manufacturing,296392.03846153844
+85,2016,"Other services, except public administration",141020.75
+86,2016,"Professional, scientific, and management, and administrative and waste management services",319606.21153846156
+87,2016,Public administration,135948.34615384616
+88,2016,Retail trade,330190.6346153846
+89,2016,"Transportation and warehousing, and utilities",143277.8076923077
+90,2016,Wholesale trade,77363.13461538461
+91,2017,"Agriculture, forestry, fishing and hunting, and mining",54468.769230769234
+92,2017,"Arts, entertainment, and recreation, and accommodation and food services",282404.46153846156
+93,2017,Construction,184962.90384615384
+94,2017,"Educational services, and health care and social assistance",673656.3269230769
+95,2017,"Finance and insurance, and real estate and rental and leasing",191616.34615384616
+96,2017,Information,61410.980769230766
+97,2017,Manufacturing,299423.51923076925
+98,2017,"Other services, except public administration",142855.78846153847
+99,2017,"Professional, scientific, and management, and administrative and waste management services",328913.6346153846
+100,2017,Public administration,136847.82692307694
+101,2017,Retail trade,332808.82692307694
+102,2017,"Transportation and warehousing, and utilities",148473.63461538462
+103,2017,Wholesale trade,78297.38461538461
+104,2018,"Agriculture, forestry, fishing and hunting, and mining",53986.403846153844
+105,2018,"Arts, entertainment, and recreation, and accommodation and food services",286547.23076923075
+106,2018,Construction,190949.75
+107,2018,"Educational services, and health care and social assistance",683377.7115384615
+108,2018,"Finance and insurance, and real estate and rental and leasing",193680.26923076922
+109,2018,Information,61205.846153846156
+110,2018,Manufacturing,300820.1923076923
+111,2018,"Other services, except public administration",144567.9423076923
+112,2018,"Professional, scientific, and management, and administrative and waste management services",337637.1346153846
+113,2018,Public administration,137889.01923076922
+114,2018,Retail trade,334182.07692307694
+115,2018,"Transportation and warehousing, and utilities",154277.23076923078
+116,2018,Wholesale trade,77963.5
+117,2019,"Agriculture, forestry, fishing and hunting, and mining",53031.21153846154
+118,2019,"Arts, entertainment, and recreation, and accommodation and food services",289699.26923076925
+119,2019,Construction,197377.23076923078
+120,2019,"Educational services, and health care and social assistance",693853.8461538461
+121,2019,"Finance and insurance, and real estate and rental and leasing",196286.07692307694
+122,2019,Information,60219.63461538462
+123,2019,Manufacturing,302752.3653846154
+124,2019,"Other services, except public administration",145727.61538461538
+125,2019,"Professional, scientific, and management, and administrative and waste management services",346692.1346153846
+126,2019,Public administration,138904.4423076923
+127,2019,Retail trade,334720.96153846156
+128,2019,"Transportation and warehousing, and utilities",160465.48076923078
+129,2019,Wholesale trade,77783.15384615384
+130,2020,"Agriculture, forestry, fishing and hunting, and mining",51386.596153846156
+131,2020,"Arts, entertainment, and recreation, and accommodation and food services",283709.25
+132,2020,Construction,201414.65384615384
+133,2020,"Educational services, and health care and social assistance",702922.3846153846
+134,2020,"Finance and insurance, and real estate and rental and leasing",199500.78846153847
+135,2020,Information,59300.269230769234
+136,2020,Manufacturing,302102.1538461539
+137,2020,"Other services, except public administration",145620.84615384616
+138,2020,"Professional, scientific, and management, and administrative and waste management services",354169.6153846154
+139,2020,Public administration,141545.1923076923
+140,2020,Retail trade,333297.3076923077
+141,2020,"Transportation and warehousing, and utilities",165697.84615384616
+142,2020,Wholesale trade,76936.17307692308
+143,2021,"Agriculture, forestry, fishing and hunting, and mining",50539.807692307695
+144,2021,"Arts, entertainment, and recreation, and accommodation and food services",277815.0576923077
+145,2021,Construction,207274.07692307694
+146,2021,"Educational services, and health care and social assistance",711408.0384615385
+147,2021,"Finance and insurance, and real estate and rental and leasing",202704.82692307694
+148,2021,Information,58620.03846153846
+149,2021,Manufacturing,305373.73076923075
+150,2021,"Other services, except public administration",145102.25
+151,2021,"Professional, scientific, and management, and administrative and waste management services",364012.6923076923
+152,2021,Public administration,144048.38461538462
+153,2021,Retail trade,334520.3461538461
+154,2021,"Transportation and warehousing, and utilities",172036.78846153847
+155,2021,Wholesale trade,75905.98076923077
+156,2022,"Agriculture, forestry, fishing and hunting, and mining",50387.692307692305
+157,2022,"Arts, entertainment, and recreation, and accommodation and food services",275899.1346153846
+158,2022,Construction,211398.21153846153
+159,2022,"Educational services, and health care and social assistance",715148.8269230769
+160,2022,"Finance and insurance, and real estate and rental and leasing",204638.40384615384
+161,2022,Information,58344.82692307692
+162,2022,Manufacturing,307193.9038461539
+163,2022,"Other services, except public administration",145628.92307692306
+164,2022,"Professional, scientific, and management, and administrative and waste management services",373097.3653846154
+165,2022,Public administration,144944.03846153847
+166,2022,Retail trade,338628.92307692306
+167,2022,"Transportation and warehousing, and utilities",177531.78846153847
+168,2022,Wholesale trade,73975.92307692308
